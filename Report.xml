@@ -1,0 +1,27 @@
+<patient>
+	<Name>Ahmed A. Ali</Name>
+	<gender>M</gender>
+	<admissionDate> value ='1102020'/>
+	<dateOfBirth> value ='5101970'/>
+	<diagnosis>Low	blood pressure</diagnosis>
+	<city>AlBireh</city>
+	<bloodType>A+</bloodType>
+</patient>
+<patient>
+	<Name>Alma Mukhles</Name>
+	<gender>F</gender>
+	<admissionDate> value ='2212019'/>
+	<dateOfBirth> value ='1012000'/>
+	<diagnosis>Ear infection</diagnosis>
+	<city>Nablus</city>
+	<bloodType>B+</bloodType>
+</patient>
+<patient>
+	<Name>mohammad saeed</Name>
+	<gender>M</gender>
+	<admissionDate> value ='3232'/>
+	<dateOfBirth> value ='3232'/>
+	<diagnosis>dede</diagnosis>
+	<city>eded</city>
+	<bloodType>ded</bloodType>
+</patient>
